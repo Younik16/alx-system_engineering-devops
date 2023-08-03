@@ -1,1 +1,1 @@
-switching the current user
+printing the currrent user
