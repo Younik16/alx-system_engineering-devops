@@ -1,1 +1,1 @@
-Granting permissions to all
+Printing groups
